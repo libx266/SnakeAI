@@ -19,16 +19,17 @@ namespace Snake
     public class Apple : Entity
     {
         public int time;
+	Point mapSize = Form1.Size;
         public Apple()
         {
             r = new Random();
             points = new List<Point>();
-            points.Add(new Point(r.Next(1, 74), r.Next(1, 74)));
+            points.Add(new Point(r.Next(1, mapSize.x - 1), r.Next(1, mapSize.y - 1)));
             color = Color.FromArgb(220, 0, 0); Log();
         }
         public virtual int Chrum()
         {
-            points[0] = new Point(r.Next(1, 74), r.Next(1, 74));
+            points[0] = new Point(r.Next(1, mapSize.x - 1), r.Next(1, mapSize.y - 1));
             Log(); return 1;
         }
         protected virtual void Log() => Console.WriteLine($"{points[0]}:  rodzą tybłoko"); 
