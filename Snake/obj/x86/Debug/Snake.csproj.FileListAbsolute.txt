@@ -1,0 +1,6 @@
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\bin\Debug\Snake.exe
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\bin\Debug\Snake.pdb
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\obj\x86\Debug\Snake.exe
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\obj\x86\Debug\Snake.pdb
+G:\MVS\SnakeAI85.tar\SnakeAI85\Snake\Snake\obj\x86\Debug\Snake.csproj.AssemblyReference.cache

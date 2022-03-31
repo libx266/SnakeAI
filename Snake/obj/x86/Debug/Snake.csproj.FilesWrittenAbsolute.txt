@@ -1,0 +1,5 @@
+/media/pszedug/Gota/44100/Mono/Snake/Snake/Snake/Snake/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/media/pszedug/Gota/44100/Mono/Snake/Snake/Snake/Snake/bin/Debug/Snake.exe.mdb
+/media/pszedug/Gota/44100/Mono/Snake/Snake/Snake/Snake/bin/Debug/Snake.exe
+/media/pszedug/Gota/44100/Mono/Snake/Snake/Snake/Snake/obj/x86/Debug/Snake.exe
+/media/pszedug/Gota/44100/Mono/Snake/Snake/Snake/Snake/obj/x86/Debug/Snake.exe.mdb

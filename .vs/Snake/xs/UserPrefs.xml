@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{26277E57-403D-430F-954C-9B501C4CDAAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake/Entity.cs">
+    <Files>
+      <File FileName="Snake/Program.cs" Line="2" Column="28" />
+      <File FileName="Snake/Form1.cs" Line="24" Column="10" />
+      <File FileName="Snake/Form1.Designer.cs" Line="46" Column="65" />
+      <File FileName="Snake/Point.cs" Line="20" Column="33" />
+      <File FileName="Snake/Entity.cs" Line="205" Column="21" />
+      <File FileName="Snake/Map.cs" Line="74" Column="48" />
+      <File FileName="Snake/Vector.cs" Line="4" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Snake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
